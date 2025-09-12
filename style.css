@@ -62,3 +62,18 @@ body{
     background-color: rgba(226, 205, 43, 0.454); 
 
 }
+.linha5{
+    background-color: rgb(171, 165, 239);
+    height: 20vh;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    gap: 10%;
+}
+.bola5{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: rgba(43, 67, 226, 0.454); 
+
+}
