@@ -21,3 +21,16 @@ body{
     background-color: rgba(137, 43, 226, 0.454);
     margin-top: 11.9vh;
 }
+.linha2{
+    background-color: rgb(165, 239, 178);
+    height: 20vh;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+}
+.bola2{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: rgba(37, 227, 37, 0.516);
+}
