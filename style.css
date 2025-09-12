@@ -34,3 +34,16 @@ body{
     border-radius: 50%;
     background-color: rgba(37, 227, 37, 0.516);
 }
+.linha3{
+    background-color: rgb(239, 165, 165);
+    height: 20vh;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.bola3{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: rgba(226, 55, 43, 0.454);
+}
